@@ -35,17 +35,17 @@ Run "**python test.py --model_path ... --ir_dir ... --vi_dir ... --gpu 0**". Ple
 
 ## If this work is helpful to you, please cite our paper! Thanks! Feel free to contact us at email: vehicle_liang@163.com
 
-## cite us at:(not published now, we will complete the DOI information after conference)
+## cite us at:
 
-@INPROCEEDINGS{RCAFusion,
+@INPROCEEDINGS{10588756,
   author={Li, Ang and Yin, Guodong and Wang, Ziwei and Liang, Jinhao and Wang, Fanxun and Bai, Xin and Liu, Zhichao},
   booktitle={2024 IEEE Intelligent Vehicles Symposium (IV)}, 
   title={RCAFusion: Cross Rubik Cube Attention Network for Multi-modal Image Fusion of Intelligent Vehicles}, 
   year={2024},
   volume={},
   number={},
-  pages={1-7},
-  doi={}}
+  pages={2848-2854},
+  doi={10.1109/IV55156.2024.10588756}}
 
 ## This work is developed from Linfeng Tang's team, i am grateful to their outstanding work and recommend you to read or cite their works, such as:
 

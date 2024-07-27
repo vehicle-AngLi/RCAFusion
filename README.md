@@ -23,7 +23,7 @@ if you wanna train your own network, Please:
 
 if you wanna run the pre-trained model of RCAFusion
 
-1. Copy your infrared images for fusion to "**./test_img/ir/**", visible images for fusion to "**./test_img/vi/**"
+1. Copy your infrared images for fusion to "**./test_imgs/ir/**", visible images for fusion to "**./test_imgs/vi/**"
 2. Run "**python test.py**", Fused images will be placed in "**./Save/**"
 
 
